@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "217a123f1367c277a6f7",
+    "revision": "96e9d2e546a37cc4ced0",
     "url": "/react-sportwear-app/static/css/main.abc65f8a.chunk.css"
   },
   {
-    "revision": "217a123f1367c277a6f7",
-    "url": "/react-sportwear-app/static/js/main.217a123f.chunk.js"
+    "revision": "96e9d2e546a37cc4ced0",
+    "url": "/react-sportwear-app/static/js/main.96e9d2e5.chunk.js"
   },
   {
     "revision": "c36c54dad73da753d65a",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-sportwear-app/static/js/2.9ae95aaf.chunk.js"
   },
   {
-    "revision": "c9c5470d025543f842826545efbf72e1",
+    "revision": "36aa90c8124e7e95949c178251b9544d",
     "url": "/react-sportwear-app/index.html"
   }
 ];
