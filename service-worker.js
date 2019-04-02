@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-sportwear-app/precache-manifest.0506115f7048d92fc2598fc2518e76da.js"
+  "/react-sportwear-app/precache-manifest.89264a7eec58f2bd8850bd2191e4a72f.js"
 );
 
 workbox.clientsClaim();
